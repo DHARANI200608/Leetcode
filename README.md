@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/DHARANI200608/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0018-4sum](https://github.com/DHARANI200608/Leetcode/tree/master/0018-4sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/DHARANI200608/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/DHARANI200608/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0018-4sum](https://github.com/DHARANI200608/Leetcode/tree/master/0018-4sum) |
 | [1612-avoid-flood-in-the-city](https://github.com/DHARANI200608/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/DHARANI200608/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 ## Binary Search
@@ -81,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/DHARANI200608/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+## Sorting
+|  |
+| ------- |
+| [0018-4sum](https://github.com/DHARANI200608/Leetcode/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
