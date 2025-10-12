@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/DHARANI200608/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/DHARANI200608/Leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/DHARANI200608/Leetcode/tree/master/0029-divide-two-integers) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/DHARANI200608/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Recursion
 |  |
 | ------- |
@@ -53,10 +54,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/DHARANI200608/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/DHARANI200608/Leetcode/tree/master/0010-regular-expression-matching) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/DHARANI200608/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/DHARANI200608/Leetcode/tree/master/0029-divide-two-integers) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/DHARANI200608/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Array
 |  |
 | ------- |
@@ -65,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/DHARANI200608/Leetcode/tree/master/0018-4sum) |
 | [1612-avoid-flood-in-the-city](https://github.com/DHARANI200608/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/DHARANI200608/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/DHARANI200608/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Binary Search
 |  |
 | ------- |
@@ -94,4 +98,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/DHARANI200608/Leetcode/tree/master/0020-valid-parentheses) |
+## Combinatorics
+|  |
+| ------- |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/DHARANI200608/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+## Bitmask
+|  |
+| ------- |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/DHARANI200608/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 <!---LeetCode Topics End-->
