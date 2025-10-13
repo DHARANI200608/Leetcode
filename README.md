@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/DHARANI200608/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/DHARANI200608/Leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/DHARANI200608/Leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/DHARANI200608/Leetcode/tree/master/0022-generate-parentheses) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/DHARANI200608/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 ## Sliding Window
 |  |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/DHARANI200608/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/DHARANI200608/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/DHARANI200608/Leetcode/tree/master/0022-generate-parentheses) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/DHARANI200608/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Bit Manipulation
 |  |
@@ -112,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/DHARANI200608/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/DHARANI200608/Leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
