@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/DHARANI200608/Leetcode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/DHARANI200608/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/DHARANI200608/Leetcode/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/DHARANI200608/Leetcode/tree/master/0046-permutations) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/DHARANI200608/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1612-avoid-flood-in-the-city](https://github.com/DHARANI200608/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/DHARANI200608/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/DHARANI200608/Leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/DHARANI200608/Leetcode/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/DHARANI200608/Leetcode/tree/master/0046-permutations) |
 ## Monotonic Stack
 |  |
 | ------- |
