@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/DHARANI200608/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0018-4sum](https://github.com/DHARANI200608/Leetcode/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/DHARANI200608/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0027-remove-element](https://github.com/DHARANI200608/Leetcode/tree/master/0027-remove-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/DHARANI200608/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/DHARANI200608/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0018-4sum](https://github.com/DHARANI200608/Leetcode/tree/master/0018-4sum) |
+| [0027-remove-element](https://github.com/DHARANI200608/Leetcode/tree/master/0027-remove-element) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/DHARANI200608/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1612-avoid-flood-in-the-city](https://github.com/DHARANI200608/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/DHARANI200608/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
