@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/DHARANI200608/Leetcode/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/DHARANI200608/Leetcode/tree/master/0043-multiply-strings) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/DHARANI200608/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/DHARANI200608/Leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 ## Sliding Window
 |  |
 | ------- |
@@ -66,11 +67,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/DHARANI200608/Leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/DHARANI200608/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/DHARANI200608/Leetcode/tree/master/0045-jump-game-ii) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/DHARANI200608/Leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/DHARANI200608/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/DHARANI200608/Leetcode/tree/master/0029-divide-two-integers) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/DHARANI200608/Leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/DHARANI200608/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Array
 |  |
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bitmask
 |  |
 | ------- |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/DHARANI200608/Leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/DHARANI200608/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Backtracking
 |  |
