@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/DHARANI200608/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1612-avoid-flood-in-the-city](https://github.com/DHARANI200608/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/DHARANI200608/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/DHARANI200608/Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/DHARANI200608/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Binary Search
 |  |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/DHARANI200608/Leetcode/tree/master/0045-jump-game-ii) |
 | [1612-avoid-flood-in-the-city](https://github.com/DHARANI200608/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/DHARANI200608/Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/DHARANI200608/Leetcode/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/DHARANI200608/Leetcode/tree/master/0047-permutations-ii) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/DHARANI200608/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/DHARANI200608/Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Stack
 |  |
 | ------- |
