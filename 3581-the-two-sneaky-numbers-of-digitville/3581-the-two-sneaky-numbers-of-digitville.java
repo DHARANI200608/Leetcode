@@ -1,14 +1,13 @@
 class Solution {
-  public int[] getSneakyNumbers(int[] nums) {
-    final int MAX = 100;
-    int[] ans = new int[2];
-    int[] count = new int[MAX + 1];
-    int ansIndex = 0;
-
-    for (final int num : nums)
-      if (++count[num] == 2)
-        ans[ansIndex++] = num;
-
-    return ans;
-  }
+    public int[] getSneakyNumbers(int[] nums) {
+        Set<Integer> set=new HashSet<>();
+        int []arr=new int[2];
+        int i=0;
+        for(int val:nums){
+            if(set.contains(val)&&arr[0]!=val)arr[i++]=val;
+            else set.add(val);
+            if(i==2)break;
+        }
+        return arr;
+    }
 }
