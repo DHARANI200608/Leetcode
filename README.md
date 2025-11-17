@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/DHARANI200608/Leetcode/tree/master/0047-permutations-ii) |
 | [0079-word-search](https://github.com/DHARANI200608/Leetcode/tree/master/0079-word-search) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/DHARANI200608/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/DHARANI200608/Leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1612-avoid-flood-in-the-city](https://github.com/DHARANI200608/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/DHARANI200608/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/DHARANI200608/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
