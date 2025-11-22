@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/DHARANI200608/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/DHARANI200608/Leetcode/tree/master/0045-jump-game-ii) |
 | [0072-edit-distance](https://github.com/DHARANI200608/Leetcode/tree/master/0072-edit-distance) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/DHARANI200608/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/DHARANI200608/Leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/DHARANI200608/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Bit Manipulation
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/DHARANI200608/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/DHARANI200608/Leetcode/tree/master/0047-permutations-ii) |
 | [0079-word-search](https://github.com/DHARANI200608/Leetcode/tree/master/0079-word-search) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/DHARANI200608/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/DHARANI200608/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/DHARANI200608/Leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1612-avoid-flood-in-the-city](https://github.com/DHARANI200608/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
