@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DHARANI200608/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/DHARANI200608/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/DHARANI200608/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1480-running-sum-of-1d-array](https://github.com/DHARANI200608/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/DHARANI200608/Leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1612-avoid-flood-in-the-city](https://github.com/DHARANI200608/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/DHARANI200608/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/DHARANI200608/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/DHARANI200608/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 ## Sorting
 |  |
