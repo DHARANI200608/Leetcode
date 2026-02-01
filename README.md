@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/DHARANI200608/Leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/DHARANI200608/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/DHARANI200608/Leetcode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/DHARANI200608/Leetcode/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/DHARANI200608/Leetcode/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DHARANI200608/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/DHARANI200608/Leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/DHARANI200608/Leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/DHARANI200608/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/DHARANI200608/Leetcode/tree/master/0047-permutations-ii) |
+| [0053-maximum-subarray](https://github.com/DHARANI200608/Leetcode/tree/master/0053-maximum-subarray) |
 | [0079-word-search](https://github.com/DHARANI200608/Leetcode/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DHARANI200608/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/DHARANI200608/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/DHARANI200608/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/DHARANI200608/Leetcode/tree/master/0053-maximum-subarray) |
 ## Greedy
 |  |
 | ------- |
