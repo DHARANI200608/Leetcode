@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/DHARANI200608/Leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/DHARANI200608/Leetcode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/DHARANI200608/Leetcode/tree/master/0043-multiply-strings) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/DHARANI200608/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/DHARANI200608/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/DHARANI200608/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/DHARANI200608/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
