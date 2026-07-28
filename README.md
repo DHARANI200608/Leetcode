@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/DHARANI200608/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/DHARANI200608/Leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1612-avoid-flood-in-the-city](https://github.com/DHARANI200608/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
+| [1920-build-array-from-permutation](https://github.com/DHARANI200608/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/DHARANI200608/Leetcode/tree/master/1929-concatenation-of-array) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/DHARANI200608/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/DHARANI200608/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/DHARANI200608/Leetcode/tree/master/0043-multiply-strings) |
+| [1920-build-array-from-permutation](https://github.com/DHARANI200608/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/DHARANI200608/Leetcode/tree/master/1929-concatenation-of-array) |
 ## Depth-First Search
 |  |
