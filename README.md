@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/DHARANI200608/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2119-a-number-after-a-double-reversal](https://github.com/DHARANI200608/Leetcode/tree/master/2119-a-number-after-a-double-reversal) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/DHARANI200608/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2652-sum-multiples](https://github.com/DHARANI200608/Leetcode/tree/master/2652-sum-multiples) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/DHARANI200608/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/DHARANI200608/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/DHARANI200608/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
