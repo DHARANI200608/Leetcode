@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DHARANI200608/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/DHARANI200608/Leetcode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/DHARANI200608/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/DHARANI200608/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/DHARANI200608/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/DHARANI200608/Leetcode/tree/master/0344-reverse-string) |
 | [0905-sort-array-by-parity](https://github.com/DHARANI200608/Leetcode/tree/master/0905-sort-array-by-parity) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/DHARANI200608/Leetcode/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/DHARANI200608/Leetcode/tree/master/0053-maximum-subarray) |
 | [0079-word-search](https://github.com/DHARANI200608/Leetcode/tree/master/0079-word-search) |
+| [0088-merge-sorted-array](https://github.com/DHARANI200608/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DHARANI200608/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/DHARANI200608/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/DHARANI200608/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/DHARANI200608/Leetcode/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/DHARANI200608/Leetcode/tree/master/0047-permutations-ii) |
+| [0088-merge-sorted-array](https://github.com/DHARANI200608/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/DHARANI200608/Leetcode/tree/master/0242-valid-anagram) |
 | [0905-sort-array-by-parity](https://github.com/DHARANI200608/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/DHARANI200608/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
