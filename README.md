@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/DHARANI200608/Leetcode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/DHARANI200608/Leetcode/tree/master/0043-multiply-strings) |
 | [0189-rotate-array](https://github.com/DHARANI200608/Leetcode/tree/master/0189-rotate-array) |
+| [0412-fizz-buzz](https://github.com/DHARANI200608/Leetcode/tree/master/0412-fizz-buzz) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/DHARANI200608/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/DHARANI200608/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2119-a-number-after-a-double-reversal](https://github.com/DHARANI200608/Leetcode/tree/master/2119-a-number-after-a-double-reversal) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/DHARANI200608/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/DHARANI200608/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/DHARANI200608/Leetcode/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/DHARANI200608/Leetcode/tree/master/0412-fizz-buzz) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/DHARANI200608/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/DHARANI200608/Leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 ## Sliding Window
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/DHARANI200608/Leetcode/tree/master/0043-multiply-strings) |
+| [0412-fizz-buzz](https://github.com/DHARANI200608/Leetcode/tree/master/0412-fizz-buzz) |
 | [1920-build-array-from-permutation](https://github.com/DHARANI200608/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/DHARANI200608/Leetcode/tree/master/1929-concatenation-of-array) |
 ## Depth-First Search
