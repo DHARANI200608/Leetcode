@@ -1,26 +1,19 @@
-import java.util.*;
-
 class Solution {
     public List<String> fizzBuzz(int n) {
+        List<String> result = new ArrayList<>();
 
-        List<String> answer = new ArrayList<>();
-
-        for(int i = 1; i <= n; i++) {
-
-            if(i % 3 == 0 && i % 5 == 0) {
-                answer.add("FizzBuzz");
-            }
-            else if(i % 3 == 0) {
-                answer.add("Fizz");
-            }
-            else if(i % 5 == 0) {
-                answer.add("Buzz");
-            }
-            else {
-                answer.add(String.valueOf(i));
+        for (int i = 1; i <= n; i++) {
+            if (i % 3 == 0 && i % 5 == 0) {
+                result.add("FizzBuzz");
+            } else if (i % 3 == 0) {
+                result.add("Fizz");
+            } else if (i % 5 == 0) {
+                result.add("Buzz");
+            } else {
+                result.add(String.valueOf(i));
             }
         }
 
-        return answer;
+        return result;
     }
 }
