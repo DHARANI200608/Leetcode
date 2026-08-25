@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/DHARANI200608/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1528-shuffle-string](https://github.com/DHARANI200608/Leetcode/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/DHARANI200608/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/DHARANI200608/Leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1859-sorting-the-sentence](https://github.com/DHARANI200608/Leetcode/tree/master/1859-sorting-the-sentence) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/DHARANI200608/Leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 ## Sliding Window
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/DHARANI200608/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/DHARANI200608/Leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Bubble Sort
 |  |
 | ------- |
