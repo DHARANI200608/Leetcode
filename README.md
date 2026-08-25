@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/DHARANI200608/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1528-shuffle-string](https://github.com/DHARANI200608/Leetcode/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/DHARANI200608/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1859-sorting-the-sentence](https://github.com/DHARANI200608/Leetcode/tree/master/1859-sorting-the-sentence) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/DHARANI200608/Leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 ## Sliding Window
 |  |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/DHARANI200608/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/DHARANI200608/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/DHARANI200608/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1859-sorting-the-sentence](https://github.com/DHARANI200608/Leetcode/tree/master/1859-sorting-the-sentence) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/DHARANI200608/Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Stack
 |  |
@@ -259,4 +261,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/DHARANI200608/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Bubble Sort
+|  |
+| ------- |
+| [1859-sorting-the-sentence](https://github.com/DHARANI200608/Leetcode/tree/master/1859-sorting-the-sentence) |
 <!---LeetCode Topics End-->
