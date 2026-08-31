@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/DHARANI200608/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/DHARANI200608/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/DHARANI200608/Leetcode/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/DHARANI200608/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/DHARANI200608/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/DHARANI200608/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/DHARANI200608/Leetcode/tree/master/0771-jewels-and-stones) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/DHARANI200608/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/DHARANI200608/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/DHARANI200608/Leetcode/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/DHARANI200608/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/DHARANI200608/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/DHARANI200608/Leetcode/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/DHARANI200608/Leetcode/tree/master/0709-to-lower-case) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/DHARANI200608/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/DHARANI200608/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/DHARANI200608/Leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Bubble Sort
