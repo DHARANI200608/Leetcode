@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/DHARANI200608/Leetcode/tree/master/1528-shuffle-string) |
 | [1539-kth-missing-positive-number](https://github.com/DHARANI200608/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/DHARANI200608/Leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
+| [1572-matrix-diagonal-sum](https://github.com/DHARANI200608/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1612-avoid-flood-in-the-city](https://github.com/DHARANI200608/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/DHARANI200608/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1920-build-array-from-permutation](https://github.com/DHARANI200608/Leetcode/tree/master/1920-build-array-from-permutation) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/DHARANI200608/Leetcode/tree/master/0079-word-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/DHARANI200608/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/DHARANI200608/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 ## Number Theory
 |  |
 | ------- |
