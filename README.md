@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/DHARANI200608/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1612-avoid-flood-in-the-city](https://github.com/DHARANI200608/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/DHARANI200608/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1854-maximum-population-year](https://github.com/DHARANI200608/Leetcode/tree/master/1854-maximum-population-year) |
 | [1920-build-array-from-permutation](https://github.com/DHARANI200608/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/DHARANI200608/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/DHARANI200608/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0724-find-pivot-index](https://github.com/DHARANI200608/Leetcode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/DHARANI200608/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1854-maximum-population-year](https://github.com/DHARANI200608/Leetcode/tree/master/1854-maximum-population-year) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/DHARANI200608/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 ## Sorting
 |  |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/DHARANI200608/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/DHARANI200608/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/DHARANI200608/Leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
+| [1854-maximum-population-year](https://github.com/DHARANI200608/Leetcode/tree/master/1854-maximum-population-year) |
 ## Bubble Sort
 |  |
 | ------- |
